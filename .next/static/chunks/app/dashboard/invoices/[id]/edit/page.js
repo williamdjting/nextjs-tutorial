@@ -64,7 +64,7 @@ function __build_action__(action, args) {
   return (0,next_dist_client_app_call_server__WEBPACK_IMPORTED_MODULE_0__.callServer)(action.$$id, args)
 }
 
-/* __next_internal_action_entry_do_not_use__ {"cf47fe2690fac0cafe44af7bc8391d025f488a5b":"deleteInvoice","215b861b1606f95fd46aee34b2cc58cce5ebd364":"createInvoice","0f37d320967919396af1333842e17532d66f9405":"updateInvoice"} */ 
+/* __next_internal_action_entry_do_not_use__ {"0f37d320967919396af1333842e17532d66f9405":"updateInvoice","cf47fe2690fac0cafe44af7bc8391d025f488a5b":"deleteInvoice","215b861b1606f95fd46aee34b2cc58cce5ebd364":"createInvoice"} */ 
 
 var createInvoice = (0,private_next_rsc_action_client_wrapper__WEBPACK_IMPORTED_MODULE_2__.createServerReference)("215b861b1606f95fd46aee34b2cc58cce5ebd364");
 var updateInvoice = (0,private_next_rsc_action_client_wrapper__WEBPACK_IMPORTED_MODULE_2__.createServerReference)("0f37d320967919396af1333842e17532d66f9405");
